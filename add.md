@@ -1,3 +1,5 @@
+[*<go to the table*](/readme.md)
+
 # git add
 **git add *[file]*** - adds a file to the index
 
