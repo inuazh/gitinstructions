@@ -13,8 +13,9 @@ LICENSE: [MIT](/license.md)
 ### **Table of contents:**
 
 
-1.
+1.[commit](/commit.md)
 2. [git add](/add.md)
+3. [init](/init.md)
 
 
 
@@ -25,3 +26,8 @@ LICENSE: [MIT](/license.md)
 
 
 LICENSE: [Creative Commons by 3.0](/https://creativecommons.org/licenses/by/3.0/deed.ru)
+
+--- 
+
+
+>**"~~If I only did what people want me to do, they would still be riding carriages."~~** - ***Henry Ford*** :sunglasses:
